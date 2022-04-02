@@ -1,0 +1,13 @@
+.tag-row__tag_place_cell {
+	margin-right: 6px;
+	margin-bottom: 6px;
+	padding: 4px 12px 2px;
+	background-color: #4A90E2;
+	color: #fff;
+	font-size: 12px;
+	line-height: 16px;
+}
+
+.tag-row__tag_place_cell:last-of-type {
+	margin-right: 0;
+}

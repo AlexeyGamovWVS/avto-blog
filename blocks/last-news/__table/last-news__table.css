@@ -1,0 +1,6 @@
+.last-news__table {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-auto-rows: 265px;
+	gap: 30px;
+}
