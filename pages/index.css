@@ -35,3 +35,22 @@
 @import url(../blocks/last-news/__cell-credits/last-news__cell-credits.css);
 @import url(../blocks/last-news/__cell-header/last-news__cell-header.css);
 @import url(../blocks/last-news/__cell-hover-toner/last-news__cell-hover-toner.css);
+
+.tag-row_place_last-news {
+	position: absolute;
+	z-index: 1;
+	top: 30px;
+	left: 20px;
+}
+
+.tag-row__list-item {
+	margin-right: 6px;
+	margin-bottom: 6px;
+	padding: 4px 12px 2px;
+	background-color: #4A90E2;
+	border-radius: 3px;
+}
+
+.tag-row__list-item:last-of-type {
+	margin-right: 0;
+}
