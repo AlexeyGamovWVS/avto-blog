@@ -1,0 +1,7 @@
+.header__menu-list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 760px;
+	flex-wrap: wrap;
+}

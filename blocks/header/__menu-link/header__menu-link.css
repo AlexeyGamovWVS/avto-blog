@@ -1,0 +1,13 @@
+.header__menu-link {
+	font-family: 'PT Sans', Helvetica, Arial, serif;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-right: 36px;
+}
+
+.header__menu-link:last-of-type {
+	margin-right: 0;
+}

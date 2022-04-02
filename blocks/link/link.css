@@ -1,0 +1,10 @@
+.link {
+	transition: opacity .3s ease;
+	-moz-transition: opacity .3s ease;;
+	-webkit-transition: opacity .3s ease;;
+	-o-transition: opacity .3s ease;
+}
+
+.link:hover {
+	opacity: .6;
+}
