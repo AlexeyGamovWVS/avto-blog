@@ -1,0 +1,6 @@
+.tag-line_place_last-news {
+	position: absolute;
+	z-index: 1;
+	top: 30px;
+	left: 20px;
+}

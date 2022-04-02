@@ -1,0 +1,5 @@
+.tag-line__link {
+	text-decoration: none;
+	border-radius: 3px;
+	transition: background-color .3s ease;
+}

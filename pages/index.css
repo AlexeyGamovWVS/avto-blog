@@ -32,34 +32,7 @@
 @import url(../blocks/last-news/__cell-credits/last-news__cell-credits.css);
 @import url(../blocks/last-news/__cell-header/last-news__cell-header.css);
 @import url(../blocks/last-news/__cell-hover-toner/last-news__cell-hover-toner.css);
-
-.tag-line {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 6px;
-}
-
-.tag-line_place_last-news {
-	position: absolute;
-	z-index: 1;
-	top: 30px;
-	left: 20px;
-}
-
-.tag-line__link {
-	text-decoration: none;
-	border-radius: 3px;
-	transition: background-color .3s ease;
-}
-
-.tag-line__link_place_last-news {
-	font-size: 12px;
-	line-height: 16px;
-	color: white;
-	padding: 6px 12px 4px;
-	background-color: #4A90E2;
-}
-
-.tag-line__link_place_last-news:hover {
-	background-color: #2765ad;
-}
+@import url(../blocks/tag-line/tag-line.css);
+@import url(../blocks/tag-line/_place/tag-line_place_last-news.css);
+@import url(../blocks/tag-line/__link/tag-line__link.css);
+@import url(../blocks/tag-line/__link/_place/tag-line__link_place_last-news.css);
