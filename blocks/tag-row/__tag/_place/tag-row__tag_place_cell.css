@@ -6,8 +6,13 @@
 	color: #fff;
 	font-size: 12px;
 	line-height: 16px;
+	transition: background-color .3s ease;
 }
 
 .tag-row__tag_place_cell:last-of-type {
 	margin-right: 0;
+}
+
+.tag-row__tag_place_cell:hover {
+	background-color: #2161ab;
 }

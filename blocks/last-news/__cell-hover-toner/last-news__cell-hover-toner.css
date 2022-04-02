@@ -1,0 +1,10 @@
+.last-news__cell-hover-toner {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 0;
+	transition: opacity .3s ease;
+}

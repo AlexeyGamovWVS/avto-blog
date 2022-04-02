@@ -25,6 +25,7 @@
 @import url(../blocks/last-news/last-news.css);
 @import url(../blocks/last-news/__table/last-news__table.css);
 @import url(../blocks/last-news/__cell/last-news__cell.css);
+@import url(../blocks/last-news/__cell-linkbox/last-news__cell-linkbox.css);
 @import url(../blocks/last-news/__cell/_pos/last-news__cell_pos_1.css);
 @import url(../blocks/last-news/__cell-image/last-news__cell-image.css);
 @import url(../blocks/last-news/__cell-toner/last-news__cell-toner.css);
@@ -33,3 +34,4 @@
 @import url(../blocks/tag-row/__tag/_place/tag-row__tag_place_cell.css);
 @import url(../blocks/last-news/__cell-credits/last-news__cell-credits.css);
 @import url(../blocks/last-news/__cell-header/last-news__cell-header.css);
+@import url(../blocks/last-news/__cell-hover-toner/last-news__cell-hover-toner.css);
