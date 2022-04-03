@@ -1,0 +1,4 @@
+.blog__posts-list {
+	display: flex;
+	flex-direction: column;
+}

@@ -42,6 +42,7 @@
 
 @import url(../blocks/blog/__container/blog__container.css);
 @import url(../blocks/blog/__posts-column/blog__posts-column.css);
+@import url(../blocks/blog/__posts-list/blog__posts-list.css);
 @import url(../blocks/blog/__post/blog__post.css);
 @import url(../blocks/blog/__post-image-box/blog__post-image-box.css);
 @import url(../blocks/blog/__post-image/blog__post-image.css);
@@ -51,6 +52,12 @@
 @import url(../blocks/blog/__post-header/blog__post-header.css);
 @import url(../blocks/blog/__post-credits/blog__post-credits.css);
 @import url(../blocks/blog/__post-description/blog__post-description.css);
+@import url(../blocks/blog/__pagination/blog__pagination.css);
+@import url(../blocks/blog/__pagination-btn/blog__pagination-btn.css);
+@import url(../blocks/blog/__pagination-icon/blog__pagination-icon.css);
+@import url(../blocks/blog/__pagination-btn/_type/blog__pagination-btn_type_hovered.css);
+@import url(../blocks/blog/__pagination-btn/_type/blog__pagination-btn_type_disabled.css);
+@import url(../blocks/blog/__pagination-btn/_type/blog__pagination-btn_type_active.css);
 
 .blog {
 
@@ -65,3 +72,15 @@
 .aside-column__finish-reading {
 
 }
+
+
+
+
+
+
+
+
+
+
+
+

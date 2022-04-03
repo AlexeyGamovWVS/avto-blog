@@ -1,0 +1,5 @@
+.blog__pagination-icon {
+	width: 6px;
+	height: 10px;
+	transition: filter .2s ease;
+}

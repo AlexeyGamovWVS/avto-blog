@@ -1,0 +1,10 @@
+.blog__pagination-btn:hover {
+	color: #E5E5E5;
+	background-color: #4A90E2;
+	border: none;
+}
+
+.blog__pagination-btn:hover .blog__pagination-icon {
+	filter: invert(100%);
+	opacity: 1;
+}
