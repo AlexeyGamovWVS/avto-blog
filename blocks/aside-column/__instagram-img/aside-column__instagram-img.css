@@ -1,4 +1,9 @@
 .aside-column__instagram-img {
 	object-fit: cover;
 	object-position: center;
+	transition: transform .3s ease;
+}
+
+.aside-column__instagram-img-box:hover .aside-column__instagram-img {
+	transform: scale(110%);
 }

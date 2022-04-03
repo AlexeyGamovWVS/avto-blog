@@ -93,6 +93,11 @@
 @import url(../blocks/aside-column/__instagram-img/aside-column__instagram-img.css);
 @import url(../blocks/aside-column/__iconbtn/aside-column__iconbtn.css);
 
+/* ----tags */
+@import url(../blocks/tag-line/_place/tag-line_place_aside.css);
+@import url(../blocks/tag-line/__item/tag-line__item.css);
+@import url(../blocks/tag-line/__item/_place/tag-line__item_place_aside.css);
+@import url(../blocks/tag-line/__link/_place/tag-line__link_place_aside.css);
 
 
 
