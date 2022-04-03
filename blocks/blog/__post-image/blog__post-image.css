@@ -1,0 +1,5 @@
+.blog__post-image {
+	object-position: center;
+	object-fit: cover;
+	transition: transform .3s ease;
+}

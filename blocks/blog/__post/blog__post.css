@@ -1,0 +1,7 @@
+.blog__post {
+	position: relative;
+}
+
+.blog__post:hover .blog__post-image {
+	transform: scale(110%);
+}

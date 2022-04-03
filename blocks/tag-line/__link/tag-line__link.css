@@ -2,4 +2,14 @@
 	text-decoration: none;
 	border-radius: 3px;
 	transition: background-color .3s ease;
+
+	font-size: 12px;
+	line-height: 16px;
+	color: white;
+	padding: 6px 12px 4px;
+	background-color: #4A90E2;
+}
+
+.tag-line__link:hover {
+	background-color: #2765ad;
 }

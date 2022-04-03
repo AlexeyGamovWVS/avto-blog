@@ -16,9 +16,11 @@
 @import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__menu-list/header__menu-list.css);
+@import url(../blocks/header/__menu-list-item/header__menu-list-item.css);
 @import url(../blocks/header/__menu-link/header__menu-link.css);
 @import url(../blocks/header/__search/header__search.css);
 @import url(../blocks/header/__search-icon/header__search-icon.css);
+
 
 /* Last News */
 
@@ -35,4 +37,31 @@
 @import url(../blocks/tag-line/tag-line.css);
 @import url(../blocks/tag-line/_place/tag-line_place_last-news.css);
 @import url(../blocks/tag-line/__link/tag-line__link.css);
-@import url(../blocks/tag-line/__link/_place/tag-line__link_place_last-news.css);
+
+/* Blog */
+
+@import url(../blocks/blog/__container/blog__container.css);
+@import url(../blocks/blog/__posts-column/blog__posts-column.css);
+@import url(../blocks/blog/__post/blog__post.css);
+@import url(../blocks/blog/__post-image-box/blog__post-image-box.css);
+@import url(../blocks/blog/__post-image/blog__post-image.css);
+@import url(../blocks/blog/__post-content/blog__post-content.css);
+@import url(../blocks/blog/__post-link/blog__post-link.css);
+@import url(../blocks/tag-line/_place/tag-line_place_blog-post.css);
+@import url(../blocks/blog/__post-header/blog__post-header.css);
+@import url(../blocks/blog/__post-credits/blog__post-credits.css);
+@import url(../blocks/blog/__post-description/blog__post-description.css);
+
+.blog {
+
+}
+
+.aside-column {
+	width: 270px;
+	display: flex;
+	flex-direction: column;
+}
+
+.aside-column__finish-reading {
+
+}
