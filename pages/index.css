@@ -40,6 +40,7 @@
 
 /* Blog */
 
+/* --posts */
 @import url(../blocks/blog/__container/blog__container.css);
 @import url(../blocks/blog/__posts-column/blog__posts-column.css);
 @import url(../blocks/blog/__posts-list/blog__posts-list.css);
@@ -59,28 +60,15 @@
 @import url(../blocks/blog/__pagination-btn/_type/blog__pagination-btn_type_disabled.css);
 @import url(../blocks/blog/__pagination-btn/_type/blog__pagination-btn_type_active.css);
 
-.blog {
+/* --aside */
 
-}
-
-.aside-column {
-	width: 270px;
-	display: flex;
-	flex-direction: column;
-}
-
-.aside-column__finish-reading {
-
-}
-
-
-
-
-
-
-
-
-
-
-
+@import url(../blocks/aside-column/aside-column.css);
+@import url(../blocks/aside-column/__finish-reading/aside-column__finish-reading.css);
+@import url(../blocks/aside-column/__finish-reading-img-box/aside-column__finish-reading-img-box.css);
+@import url(../blocks/aside-column/__finish-reading-img/aside-column__finish-reading-img.css);
+@import url(../blocks/aside-column/__finish-reading-card/aside-column__finish-reading-card.css);
+@import url(../blocks/aside-column/__finish-reading-header/aside-column__finish-reading-header.css);
+@import url(../blocks/aside-column/__finish-reading-credits/aside-column__finish-reading-credits.css);
+@import url(../blocks/aside-column/__finish-reading-description/aside-column__finish-reading-description.css);
+@import url(../blocks/aside-column/__finish-reading-button/aside-column__finish-reading-button.css);
 

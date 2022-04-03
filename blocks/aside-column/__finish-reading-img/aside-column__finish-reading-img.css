@@ -1,0 +1,9 @@
+.aside-column__finish-reading-img {
+	object-fit: cover;
+	object-position: center;
+	transition: transform .3s ease;
+}
+
+.aside-column__finish-reading:hover .aside-column__finish-reading-img {
+	transform: scale(110%);
+}

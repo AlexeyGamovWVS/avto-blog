@@ -1,0 +1,21 @@
+.aside-column__finish-reading-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 270px;
+	padding: 17px 30px 15px;
+	background-color: #232323;
+	border: none;
+	border-radius: 5px;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	transition: background-color .2s ease;
+	cursor: pointer;
+}
+
+.aside-column__finish-reading-button:hover {
+	background-color: #4A90E2;
+}
