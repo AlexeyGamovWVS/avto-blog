@@ -1,0 +1,4 @@
+.aside-column__instagram {
+	display: flex;
+	flex-direction: column;
+}

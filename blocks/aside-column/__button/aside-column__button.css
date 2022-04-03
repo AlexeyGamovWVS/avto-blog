@@ -1,7 +1,6 @@
-.aside-column__finish-reading-button {
+.aside-column__button {
 	display: flex;
 	justify-content: center;
-	align-items: center;
 	width: 270px;
 	padding: 17px 30px 15px;
 	background-color: #232323;
@@ -16,6 +15,6 @@
 	cursor: pointer;
 }
 
-.aside-column__finish-reading-button:hover {
+.aside-column__button:hover {
 	background-color: #4A90E2;
 }

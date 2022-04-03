@@ -70,7 +70,7 @@
 @import url(../blocks/aside-column/__finish-reading-header/aside-column__finish-reading-header.css);
 @import url(../blocks/aside-column/__finish-reading-credits/aside-column__finish-reading-credits.css);
 @import url(../blocks/aside-column/__finish-reading-description/aside-column__finish-reading-description.css);
-@import url(../blocks/aside-column/__finish-reading-button/aside-column__finish-reading-button.css);
+@import url(../blocks/aside-column/__button/aside-column__button.css);
 
 /* ----popular */
 @import url(../blocks/tag-line/_place/tag-line_place_aside-popular.css);
@@ -83,3 +83,21 @@
 @import url(../blocks/aside-column/__popular-card-img/aside-column__popular-card-img.css);
 @import url(../blocks/aside-column/__popular-card-title/aside-column__popular-card-title.css);
 @import url(../blocks/aside-column/__popular-card-credits/aside-column__popular-card-credits.css);
+
+/* ----instagram */
+
+@import url(../blocks/aside-column/__button/_place/aside-column__button_place_instagram.css);
+@import url(../blocks/aside-column/__instagram/aside-column__instagram.css);
+@import url(../blocks/aside-column/__instagram-list/aside-column__instagram-list.css);
+@import url(../blocks/aside-column/__instagram-list-item/aside-column__instagram-list-item.css);
+@import url(../blocks/aside-column/__instagram-img/aside-column__instagram-img.css);
+@import url(../blocks/aside-column/__iconbtn/aside-column__iconbtn.css);
+
+
+
+
+
+
+
+
+
