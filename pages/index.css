@@ -94,15 +94,13 @@
 @import url(../blocks/aside-column/__iconbtn/aside-column__iconbtn.css);
 
 /* ----tags */
+@import url(../blocks/aside-column/__tags/aside-column__tags.css);
 @import url(../blocks/tag-line/_place/tag-line_place_aside.css);
 @import url(../blocks/tag-line/__item/tag-line__item.css);
 @import url(../blocks/tag-line/__item/_place/tag-line__item_place_aside.css);
 @import url(../blocks/tag-line/__link/_place/tag-line__link_place_aside.css);
 
-
-
-
-
-
-
-
+/* ----form */
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__description/form__description.css);
+@import url(../blocks/form/__input/form__input.css);
