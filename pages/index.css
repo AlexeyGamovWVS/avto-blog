@@ -21,7 +21,6 @@
 @import url(../blocks/header/__search/header__search.css);
 @import url(../blocks/header/__search-icon/header__search-icon.css);
 
-
 /* Last News */
 
 @import url(../blocks/last-news/last-news.css);
@@ -104,3 +103,16 @@
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__description/form__description.css);
 @import url(../blocks/form/__input/form__input.css);
+
+/* Most Popular */
+
+@import url(../blocks/section/__header/section__header.css);
+@import url(../blocks/most-popular/__header/most-popular__header.css);
+@import url(../blocks/most-popular/__popular-list/most-popular__popular-list.css);
+@import url(../blocks/most-popular/__popular-list-item/most-popular__popular-list-item.css);
+@import url(../blocks/tag-line/_place/tag-line_place_most-popular.css);
+@import url(../blocks/most-popular/__popular-card/most-popular__popular-card.css);
+@import url(../blocks/most-popular/__popular-card-image-box/most-popular__popular-card-image-box.css);
+@import url(../blocks/most-popular/__popular-card-img/most-popular__popular-card-img.css);
+@import url(../blocks/most-popular/__popular-card-title/most-popular__popular-card-title.css);
+@import url(../blocks/most-popular/__popular-card-credits/most-popular__popular-card-credits.css);

@@ -1,0 +1,10 @@
+.most-popular__popular-card-img {
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+	transition: transform 0.3s ease;
+}
+
+.most-popular__popular-card:hover .most-popular__popular-card-img {
+	transform: scale(110%);
+}
