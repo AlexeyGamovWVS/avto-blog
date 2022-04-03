@@ -1,0 +1,8 @@
+.aside-column__popular-list-item {
+	margin-bottom: 39px;
+	position: relative;
+}
+
+.aside-column__popular-list-item:last-of-type {
+	margin-bottom: 0px;
+}

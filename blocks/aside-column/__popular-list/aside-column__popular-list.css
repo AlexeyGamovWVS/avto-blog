@@ -1,0 +1,4 @@
+.aside-column__popular-list {
+	display: flex;
+	flex-direction: column;
+}

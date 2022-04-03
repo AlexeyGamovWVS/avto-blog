@@ -61,7 +61,7 @@
 @import url(../blocks/blog/__pagination-btn/_type/blog__pagination-btn_type_active.css);
 
 /* --aside */
-
+/* ----finish reading */
 @import url(../blocks/aside-column/aside-column.css);
 @import url(../blocks/aside-column/__finish-reading/aside-column__finish-reading.css);
 @import url(../blocks/aside-column/__finish-reading-img-box/aside-column__finish-reading-img-box.css);
@@ -72,3 +72,14 @@
 @import url(../blocks/aside-column/__finish-reading-description/aside-column__finish-reading-description.css);
 @import url(../blocks/aside-column/__finish-reading-button/aside-column__finish-reading-button.css);
 
+/* ----popular */
+@import url(../blocks/tag-line/_place/tag-line_place_aside-popular.css);
+@import url(../blocks/aside-column/__popular/aside-column__popular.css);
+@import url(../blocks/aside-column/__header/aside-column__header.css);
+@import url(../blocks/aside-column/__popular-list/aside-column__popular-list.css);
+@import url(../blocks/aside-column/__popular-list-item/aside-column__popular-list-item.css);
+@import url(../blocks/aside-column/__popular-card/aside-column__popular-card.css);
+@import url(../blocks/aside-column/__popular-card-image-box/aside-column__popular-card-image-box.css);
+@import url(../blocks/aside-column/__popular-card-img/aside-column__popular-card-img.css);
+@import url(../blocks/aside-column/__popular-card-title/aside-column__popular-card-title.css);
+@import url(../blocks/aside-column/__popular-card-credits/aside-column__popular-card-credits.css);
