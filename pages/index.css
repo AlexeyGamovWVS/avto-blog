@@ -108,7 +108,7 @@
 
 /* Most Popular */
 
-@import url(../);
+@import url(../blocks/most-popular/most-popular.css);
 @import url(../blocks/section/__header/section__header.css);
 @import url(../blocks/most-popular/__header/most-popular__header.css);
 @import url(../blocks/most-popular/__popular-list/most-popular__popular-list.css);
@@ -145,3 +145,40 @@
 @import url(../blocks/contacts/__post-card-credits/contacts__post-card-credits.css);
 @import url(../blocks/contacts/__post-card-content/contacts__post-card-content.css);
 @import url(../blocks/contacts/__post-card/contacts__post-card.css);
+
+.footer {
+	padding: 39px 0 37px;
+	background-color: #000;
+
+}
+
+.footer__container {
+	display: flex;
+	justify-content: space-between;
+}
+.footer__credits {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	color: #fff;	
+}
+
+.footer__nav-row {
+	display: flex;
+	max-width: 764px;
+}
+.footer__nav-row-item {
+	margin-right: 34px;
+}
+.footer__nav-row-item:last-of-type {
+	margin-right: 0px;
+}
+.footer__nav-link {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
