@@ -1,0 +1,4 @@
+.contacts__posts-column {
+	display: flex;
+	flex-direction: column;
+}
