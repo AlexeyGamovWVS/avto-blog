@@ -135,7 +135,7 @@
 @import url(../blocks/contacts/__title/_place/contacts__title_place_form.css);
 @import url(../blocks/contacts/__title/_place/contacts__title_place_posts.css);
 @import url(../blocks/contacts/__social-row/contacts__social-row.css);
-@import url(../blocks/contacts/__social-item/cotacts__social-item.css);
+@import url(../blocks/contacts/__social-item/contacts__social-item.css);
 @import url(../blocks/contacts/__social-icon/contacts__social-icon.css);
 @import url(../blocks/contacts/__posts-column/contacts__posts-column.css);
 @import url(../blocks/contacts/__posts-item/contacts__posts-item.css);
@@ -146,39 +146,11 @@
 @import url(../blocks/contacts/__post-card-content/contacts__post-card-content.css);
 @import url(../blocks/contacts/__post-card/contacts__post-card.css);
 
-.footer {
-	padding: 39px 0 37px;
-	background-color: #000;
+/* Footer */
 
-}
-
-.footer__container {
-	display: flex;
-	justify-content: space-between;
-}
-.footer__credits {
-	font-style: normal;
-	font-weight: 400;
-	font-size: 14px;
-	line-height: 18px;
-	color: #fff;	
-}
-
-.footer__nav-row {
-	display: flex;
-	max-width: 764px;
-}
-.footer__nav-row-item {
-	margin-right: 34px;
-}
-.footer__nav-row-item:last-of-type {
-	margin-right: 0px;
-}
-.footer__nav-link {
-	font-style: normal;
-	font-weight: 400;
-	font-size: 14px;
-	line-height: 18px;
-	color: #FFFFFF;
-	text-decoration: none;
-}
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__credits/footer__credits.css);
+@import url(../blocks/footer/__nav-row/footer__nav-row.css);
+@import url(../blocks/footer/__nav-row-item/footer__nav-row-item.css);
+@import url(../blocks/footer/__nav-link/footer__nav-link.css);

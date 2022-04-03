@@ -1,0 +1,7 @@
+.contacts__social-item {
+	margin-right: 15px;
+}
+
+.contacts__social-item:last-of-type {
+	margin-right: 0;
+}
